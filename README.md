@@ -19,7 +19,7 @@
 - MQTT查看工具 [MQTTBox](https://github.com/workswithweb/MQTTBox)
 
 ## FTP工具
-- FileZilla Client [MQTTBox](https://filezilla-project.org/) 远程ftp管理工具
+- FileZilla Client [FileZilla](https://www.filezilla.cn/download/client) 远程ftp管理工具
 
 ## 数据库管理工具
 - Navicat Premium [Navicat Premium](http://www.rsdown.cn/down/55527.html)
