@@ -23,3 +23,6 @@
 
 ## 数据库管理工具
 - Navicat Premium [Navicat Premium](http://www.rsdown.cn/down/55527.html)
+
+## 文本编辑工具
+- marktext [marktext](https://github.com/marktext/marktext) Markdown编辑工具
