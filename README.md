@@ -26,3 +26,6 @@
 
 ## 文本编辑工具
 - marktext [marktext](https://github.com/marktext/marktext) Markdown编辑工具
+
+## 梯子
+- [chromium](https://github.com/jjqqkk/chromium) 一个可以上外网的浏览器
