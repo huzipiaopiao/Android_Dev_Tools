@@ -14,6 +14,8 @@
 
 ## AndroidStudio插件
 - JsonViewer 可以直接在IDE中模拟Http请求
+- Gradle View 插件 可以查看每个依赖库，依赖了哪些其他的库，帮助解决依赖冲突
+（PS:命令行输入：gradlew :app:dependencies 也可以查看）（指定一个module-name，并去掉其他信息：gradlew -q :app:dependencies --configuration compile）
 
 ## MQTT工具
 - MQTT查看工具 [MQTTBox](https://github.com/workswithweb/MQTTBox)
