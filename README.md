@@ -31,3 +31,6 @@
 
 ## 梯子
 - [chromium](https://github.com/jjqqkk/chromium) 一个可以上外网的浏览器
+
+## 文件查看工具
+- [QuickLook](https://github.com/QL-Win/QuickLook) 选中文件按下空格，便可查看任何文件内容
