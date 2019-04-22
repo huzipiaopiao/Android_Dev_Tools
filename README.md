@@ -1,6 +1,9 @@
 # Android_Dev_Tools
 记录平时工作中，搜集到的好用android开发辅助工具
 
+## 其他工具集合
+- Mac相关，当然window也有部分可用的 [Mac生产力工具链推荐](https://github.com/Louiszhai/tool)
+
 ## 新电脑必装的开发工具
 - 手机投屏 [scrcpy](https://github.com/Genymobile/scrcpy)
 - 手机通过usb使用电脑网络 [gnirehtet](https://github.com/Genymobile/gnirehtet)
