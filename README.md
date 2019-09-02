@@ -21,6 +21,14 @@
 （PS:命令行输入：gradlew :app:dependencies 也可以查看）（指定一个module-name，并去掉其他信息：gradlew -q :app:dependencies --configuration compile）
 - 翻译插件[ECTranslation](https://github.com/Skykai521/ECTranslation)，可以翻译文档中的英文
 - 辅助变量命名插件[varname-go-die](https://github.com/lololiu/varname-go-die)
+- Parcelable 序列化生成插件：Android Parcelable code generator
+- 资源引用使用数量统计：Android Resource Usage Count
+- EventBus事件接收和发出跳转：EventBus3 Intellij Plugin
+- GitOSC 码云插件
+- GsonFormat json转对象快速生成工具
+- Key Promoter X 快捷键提示
+- Markdown Navigator markdown编辑插件
+
 
 ## MQTT工具
 - MQTT查看工具 [MQTTBox](https://github.com/workswithweb/MQTTBox)
