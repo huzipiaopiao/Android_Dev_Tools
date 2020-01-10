@@ -47,3 +47,9 @@
 
 ## 文件查看工具
 - [QuickLook](https://github.com/QL-Win/QuickLook) 选中文件按下空格，便可查看任何文件内容
+
+## Windows优秀工具
+- [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) 选中文件按下空格，便可查看任何文件内容
+
+## google插件
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
