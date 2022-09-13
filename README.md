@@ -6,6 +6,7 @@
 
 ## 新电脑必装的开发工具
 - 手机投屏 [scrcpy](https://github.com/Genymobile/scrcpy)
+- 手机投屏 [QtScrcpy](https://github.com/barry-ran/QtScrcpy) 这个更好用
 - 手机通过usb使用电脑网络 [gnirehtet](https://github.com/Genymobile/gnirehtet)
 - API接口测试 [postman](https://github.com/postmanlabs/postman-app-support)
 - 抓包工具 [Charles](https://www.zzzmode.com/mytools/charles/) 需要破解
